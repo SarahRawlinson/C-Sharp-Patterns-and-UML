@@ -1,4 +1,4 @@
-<h1 id="header" align ="centre"># C Sharp Patterns and UML</h1>
+<h1 id="header" align ="centre">C# Patterns and UML</h1>
 <body>
  <p>Leaning and trying to implement C# patterns and then drawing UML representations of the code.</p>
  <p>Patterns</p>
