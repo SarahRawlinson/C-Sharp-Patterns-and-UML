@@ -10,5 +10,5 @@
   <img src="https://github.com/SarahRawlinson/C-Sharp-Patterns-and-UML/blob/main/FactoryPattern/UML%20Factory.png" alt="Factory"/>
   Probably more complicated than it needs to be but hopefully the idea is along the right lines. 
   This is my first attempt at a UML drawing in order to try and learn the concepts of both UML and design patterns.
- </p?
+ </p>
 </body>
