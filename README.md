@@ -8,5 +8,6 @@
    Factory Pattern UML
   </a>
   <img src="https://github.com/SarahRawlinson/C-Sharp-Patterns-and-UML/blob/main/FactoryPattern/UML%20Factory.png" alt="Factory"/>
+  probably more complicated than it needs to be but hopefully the idea is along the right lines
  </p?
 </body>
