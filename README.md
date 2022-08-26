@@ -7,5 +7,6 @@
   <a href="https://lucid.app/lucidchart/45d3bf9c-e1aa-4c8c-b640-4cba513cf4b2/edit?invitationId=inv_b0b56a91-82b2-4557-8de8-1ad1d9f8f0a3#">
    Factory Pattern UML
   </a>
+  <img src="https://github.com/SarahRawlinson/C-Sharp-Patterns-and-UML/blob/main/FactoryPattern/UML%20Factory.png" alt="Factory"/>
  </p?
 </body>
