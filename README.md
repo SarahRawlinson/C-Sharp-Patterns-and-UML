@@ -11,4 +11,13 @@
   Probably more complicated than it needs to be but hopefully the idea is along the right lines. 
   This is my first attempt at a UML drawing in order to try and learn the concepts of both UML and design patterns.
  </p>
+ 
+ <p>
+ Singleton Pattern <br>
+  <a href="https://lucid.app/lucidchart/1731a69e-0eb2-4531-9875-12c317d55e7a/edit?viewport_loc=-52%2C-41%2C2931%2C1469%2C0_0&invitationId=inv_8bf008ce-200d-4cd4-8ded-5684f7522890#">
+   Singleton Pattern UML
+  </a>
+  <img src="https://github.com/SarahRawlinson/C-Sharp-Patterns-and-UML/blob/main/SingletonPattern/Singleton.png" alt="Single"/>
+  an example of the singleton pattern
+ </p>
 </body>
